@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # openIMIS Frontend Administration reference module
 This repository holds the files of the openIMIS Frontend Administration reference module.
 It is dedicated to be deployed as a module of [openimis-fe_js](https://github.com/openimis/openimis-fe_js).
@@ -67,3 +68,6 @@ None
 ## Configurations Options
 - `passwordGeneratorOptions`, array with possible configuration options, default:{ length: 10, isNumberRequired: true,
       isLowerCaseRequired: true, isUpperCaseRequired: true, isSpecialSymbolRequired: true  }
+=======
+# open_frontend
+>>>>>>> 1492f5c4db057c0aa0aea016a31ca872f6a904a6
